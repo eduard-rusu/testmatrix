@@ -5,8 +5,8 @@ Test Matrix:
         A matrix that links requirements to test cases to ensure that all requirements are covered by testing.
     Test Coverage Matrix: 
         A matrix used to plan and document the coverage of test cases based on various factors such as test conditions, environments, and configurations.
-    Test Execution Matrix: T
-        his term can be used to describe a matrix that specifically outlines the plan for executing test cases during the test phase. It typically includes details such as the test case IDs, descriptions, execution order, responsible parties, and execution status.
+    Test Execution Matrix: 
+        A matrix that specifically outlines the plan for executing test cases during the test phase. It typically includes details such as the test case IDs, descriptions, execution order, responsible parties, and execution status.
 
 
 ------------------------------------
@@ -43,8 +43,6 @@ Requirements Traceability Matrix (RTM):
                 The status of the link between the requirement and test case, indicating whether the test case has been executed or is pending.
             Execution Results: 
                 The outcome of the execution of each associated test case, such as "Pass," "Fail," or "Not Executed."
-            Comments/Notes: 
-                A section for additional comments or notes related to the requirement or test case.
 
     Usage:
         The Requirements Traceability Matrix is used throughout the software development and testing process:
@@ -109,8 +107,6 @@ Test Coverage Matrix:
                 Describes the expected outcomes or behaviors when the test case is executed correctly.
             Actual Results: 
                 Records the actual outcomes or observations when the test case is executed during testing.
-            Notes/Comments: 
-                Provides space for additional comments, notes, or observations related to the test case.
 
     Usage:
         The Test Coverage Matrix is a dynamic document used throughout the testing process:
