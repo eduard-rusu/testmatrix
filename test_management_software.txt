@@ -1,0 +1,61 @@
+https://www.practitest.com/
+    Pricing: 
+        49$ per user/ month
+    
+    Clickup integeration: 
+        https://www.practitest.com/integrations/clickup-integration/
+
+    PractiTest is an end-to-end test management platform where you and your team can orchestrate your QA efforts in real-time. You can use PractiTest as a hub for your entire QA process, including manual, exploratory, and automation testing.
+
+
+https://www.testlodge.com/
+    Pricing: 
+        69$ - 270$ per month
+    
+    Clickup integration: 
+        https://www.testlodge.com/test-case-tool-integrations/clickup
+        https://blog.testlodge.com/clickup-test-case-management/
+
+    TestLodge is an online test case management tool that allows users to manage their test plans, test cases and test runs with ease.
+
+
+https://qase.io/
+    Pricing: 
+        0$ - 30$ per user/ month
+    
+    Clickup integration: 
+        https://help.qase.io/en/articles/6417208-clickup
+
+    Qase is a modern test management platform for maunal and automated QA testing, tracking and reporting that helps deliver high quality software, faster.
+
+
+https://www.kualitee.com/
+    Pricing: 
+        15$ per user/ month
+    
+    Clickup integration: 
+        https://www.kualitee.com/integrations/integrates-with-clickup/
+
+    Kualitee is a test management tool that helps QA and dev teams plan, create, execute, and maintain test cases and manage defects.
+
+
+https://testuff.com/
+    Pricing: 
+        27$ per user/ month
+    
+    Clickup integration: 
+        https://testuff.com/desktop-client/help/clickup/
+
+    Testuff offers features for creating and organizing test cases, executing test runs, tracking defects, and generating test reports. Testers can plan and schedule test runs, record test results, and collaborate with team members within the platform
+
+
+https://www.testmo.com/
+    Pricing: 
+        99$ per month (10 users) - 299$ per month (25 users)
+    
+    Clickup integration: 
+        https://docs.testmo.com/integrations/issue-trackers/clickup
+
+    Manage all your test cases, sessions & automation in Testmo. Powerful unified test management: lightning fast UI, rich reports & integrations. Works with Jira, GitHub, GitLab & many more.
+
+
